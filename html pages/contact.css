@@ -1,0 +1,85 @@
+#content{
+    background-color: white;
+    margin: 0px;
+    
+}
+.background{
+    background-image: url("C:\Users\laghu\Downloads\resturant pic.jpg");
+
+}
+h1{
+    text-align: center;
+}
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+
+* {
+  font-family: Roboto;
+}
+
+
+.footer {
+  background-color: #008080;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  font: normal 16px sans-serif;
+  padding: 45px 50px;
+}
+
+
+/* Footer links */
+
+.footer p.footer-links {
+    text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 0 0 10px;
+  padding: 0;
+  transition: ease .25s;
+}
+
+.footer p.footer-links a {
+  display: inline-block;
+  line-height: 1.8;
+  text-decoration: none;
+  color: inherit;
+  transition: ease .25s;
+  margin: 2px;
+  padding: 4px;
+}
+
+
+
+.footer .footer-right {
+  float: right;
+  margin-top: 6px;
+  max-width: 180px;
+}
+
+.footer .footer-right a {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  border-radius: 2px;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
+  margin-left: 3px;
+  transition:all .25s;
+}
+.item.button{
+  padding:5px 30px;
+    border:none;
+    outline:none;
+    background-color: #008080;
+    color:white;
+    cursor:pointer;
+    border-radius: 4px;
+    font-size:20px;
+    display:block;
+    margin:0 auto;
+    transition: 0.2s all;
+}
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+        
+        <link rel = "stylesheet" href = "resturant.css">
+        
+ </head>
+<body>
+    <h1>
+        MEHFIL
+        
+    </h1>
+    <div class="background">
+        
+        <nav>
+            <u1>
+                <a href="#"><li>HOME</li></a>
+                <a href="menu.html"><li>MENU</li></a>
+                <a href="#"><li>ABOUT US</li></a>
+                <a href="#"><li>GALLERY</li></a>
+                <a href="healthy tips.html"><li>HEALTHYTIPS</li></a>
+                <a href="contact.html"><li>CONTACTUS</li></a>
+            </u1>
+        </nav><br>
+       <h2>
+        WELCOME TO OUR RESTURANT<br><br>
+        <nbsp></nbsp>OUR SPECALITIES 
+
+       </h2>
+
+
+
+    </div>
+        
+    </body>
+    </html>

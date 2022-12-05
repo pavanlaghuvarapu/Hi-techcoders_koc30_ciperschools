@@ -1,0 +1,27 @@
+h2{
+    font-size: 30px;
+    color:white;
+    background-color: whitesmokes;
+    font-style:oblique;
+    
+    
+    
+}
+.tips{
+    padding-left: 50px;
+}
+body{
+    background-color:#008080;
+    color:white;
+}
+#tips.li{
+    padding: 20px;
+
+}
+body{
+    background-image:url("C:\Users\laghu\OneDrive\Desktop\Albert Einstein\Barkas restaurant\images\background\health tips.jpg")
+}
+h1{
+    font-style:italic;
+    color:black;
+}
